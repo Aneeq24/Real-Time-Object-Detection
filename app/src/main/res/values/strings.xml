@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Eye</string>
+
+    <!-- Select image activity -->
+
+
+    <!-- Main activity -->
+
+    <!-- Tips to get subscription key shown on main activity-->
+
+    <!-- Detection activity -->
+
+    <!-- Verification activity -->
+
+    <!-- Verification activity -->
+
+    <!-- Identification activity -->
+
+    <!-- Person group management activities -->
+
+    <!-- Find similar faces and grouping activity -->
+
+    <!-- Common in all activities -->
+
+    <!-- Logs -->
+
+    <!-- Warning messages -->
+
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+</resources>

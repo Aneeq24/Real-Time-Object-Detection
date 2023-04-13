@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ec657bb192b20229696216bf233779b16bf75a54">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-27.1.1_793e633c2e6f6af400df9293abfe88df3fe5f572.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Esh\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\gson-2.8.2_8cbe8e76b89405bf041efe7a1a5b6709692f6904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Esh\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.1.0\edf3f7bfb84a7521d0599efa3b0113a0ee90f85\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\common-1.1.0_0d94ccb70a36765df0e1d4c64996330d8faac80a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\face\1.4.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3012e40b4c2cb482e21aa5d0fecf3a072c8d329">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.microsoft.projectoxford-face-1.4.1_3321bcc8df057caf2a867fae01360f94e1e06cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c9a721adcd7dbae7a197b0ef81102336539f63ff">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-27.1.1_e1accd99ecf7a18f3ccd2935ce00cffe169d13fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\android.arch.lifecycle-runtime-1.1.0_19fa16678167e26b345df96609915595f1c1e25b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\android.arch.core\runtime\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\android.arch.core-runtime-1.1.0_2f3617581398ac7df59e4a55abaebb15a0cfd148.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3304d33470ff64cf83bce9189ff3648a42eb2aa7">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-27.1.1_b8c1ffcd1765fba1fd53fca05cce0909d8a25303.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="23dcb4803d3103bde3f3f5db978a726338fe49ae">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-27.1.1_cdd9c7c2259725e4debc24659abfb2f82986b16b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.esh.smartsight.VisionSdk.vision\1.0.394\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3c8593000b32551d91ee901c2bc2b162ff05efc2">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.esh.smartsight.VisionSdk.vision-1.0.394_0b3cf01b6824c575fa460166f6adf8627e50a1c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Esh\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.1.0\8007981f7d7540d89cd18471b8e5dcd2b4f99167\common-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\common-1.1.0_e20854aeb68e496bc3650c5be10ec297daeb9cf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d968b9bd0011800e0d333d1571b8d34bcb8a0b6e">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-27.1.1_39c70554684cf763ba4a0e3cd2a7c0ed438ea70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\android.arch.lifecycle\viewmodel\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\android.arch.lifecycle-viewmodel-1.1.0_47eab48ca403c237b15353c2680d15ef58cc1037.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2feadd535770271ca57b7b431f42151aa4af324a">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-27.1.1_63262c419d6ebcec8bda441dc1efc9b9e467b20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\android.arch.lifecycle\livedata-core\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\android.arch.lifecycle-livedata-core-1.1.0_7efab8366a33027f3b214c0d87b3374162ea231b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Esh\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.1.1\39ded76b5e1ce1c5b2688e1d25cdc20ecee32007\support-annotations-27.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\support-annotations-27.1.1_98f66510342f617779ac77227c2517c7e3a39cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="874f1143c11f5d38533efe512bf913e3e847e7df">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-27.1.1_d87ab69e88ebc90cb3ce42b93314f6603c4ce79e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Esh\.gradle\caches\modules-2\files-2.1\commons-lang\commons-lang\2.4\16313e02a793435009f1e458fa4af5d879f6fb11\commons-lang-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16313e02a793435009f1e458fa4af5d879f6fb11">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\commons-lang-2.4_e1725ebc40c4a1791ab08829a6736fe18f871c5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Projects\Done\SmartSight\app\build\intermediates\exploded-aar\com.esh.smartsight.VisionSdk.vision\1.0.394\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4be1d7736d7a4a966682e109acddef2fc0554c6f">
+        <dex dex="F:\Projects\Done\SmartSight\app\build\intermediates\pre-dexed\release\commons-io-2.4_7eed0032f5d23026da6f19aed5358a009b6d6fdb.jar" />
+    </item>
+
+</items>
